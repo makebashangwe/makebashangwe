@@ -24,13 +24,12 @@ My goal is to build clean, maintainable, and scalable software while developing 
 
 ##  Technical Stack
 
-- **Languages:** Python, Java, Bash
-- **Backend:** FastAPI, REST APIs
-- **Databases:** SQL, PostgreSQL
-- **Cloud & Infrastructure:** AWS, Linux, Git, Docker
-- **Testing:** pytest, QA principles
-- **AI/ML:** Machine learning foundations, optimization, deep learning concepts
-
+- **Software Engineering:** Java, Python, Object-Oriented Design, Data Structures & Algorithms
+- **Backend Systems:** REST APIs, FastAPI, service-layer architecture, database-backed applications
+- **Databases:** SQL, PostgreSQL, data modeling, query design
+- **Infrastructure:** Linux, Git, Docker, AWS fundamentals, cloud deployment concepts
+- **Testing & Quality:** pytest, unit testing, software design, QA principles
+- **AI/ML Foundations:** machine learning concepts, optimization, deep learning fundamentals
 ---
 
 ##  Engineering Approach
