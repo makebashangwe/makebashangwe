@@ -1,32 +1,66 @@
-# 👋 Hi, I'm Makeba Waddy (@makebashangwe)
+#  Software Engineering + AI/ML Infrastructure Portfolio
 
-## About Me
+Welcome to my engineering portfolio.
 
-I'm an 18-year-old freshman at Georgia State University with a passion for software development, game design, and music composition.
+This repository showcases my work in **software engineering**, with a focus on **backend systems**, **AI/ML infrastructure**, and **cloud-native application design**.
 
-## Technical Skills
+My goal is to build clean, maintainable, and scalable software while developing the computer science and systems knowledge needed to support AI/ML workloads in production environments.
 
-- Proficient in: C#, Python
-- Currently learning: C++, Java, JavaScript
+---
 
-## Interests
+##  Focus Areas
 
-Exploring the intersection of technology and creativity, I'm excited to combine my programming skills with my love for music and game design.
+- Backend Software Engineering
+- Object-Oriented Design
+- Data Structures and Algorithms
+- API Development
+- Database-Backed Applications
+- Cloud Infrastructure
+- Distributed Systems
+- AI/ML Engineering Concepts
+- Testing and Quality Assurance
 
-## Projects
+---
 
-Check out my repositories for a glimpse into my diverse projects, ranging from coding challenges in C# and Python to game development explorations in C++.
+##  Technical Stack
 
-## Goals
+- **Languages:** Python, Java, Bash
+- **Backend:** FastAPI, REST APIs
+- **Databases:** SQL, PostgreSQL
+- **Cloud & Infrastructure:** AWS, Linux, Git, Docker
+- **Testing:** pytest, QA principles
+- **AI/ML:** Machine learning foundations, optimization, deep learning concepts
 
-- Master new programming languages
-- Contribute to open-source projects
-- Excel in software development and game design
-- Learn new, creative ways to impliment music into video games
+---
 
-## Let's Connect!
+##  Engineering Approach
 
-- [GitHub: @makebashangwe](https://github.com/makebashangwe)
-- [LinkedIn](https://www.linkedin.com/in/makebashangwe/)
-- [Email](makebashangwe@gmail.com) ---Business Inquiries ONLY
+I focus on writing software that is:
 
+- Modular
+- Testable
+- Maintainable
+- Scalable
+- Easy to reason about
+
+This portfolio emphasizes clean architecture, separation of concerns, defensive programming, and practical system design.
+
+---
+
+##  Projects
+
+Projects in this repository are designed to demonstrate growth across:
+
+- Backend application development
+- Computer science fundamentals
+- Object-oriented architecture
+- API design
+- Database integration
+- Infrastructure-aware software engineering
+- AI/ML-related software systems
+
+---
+
+## 📌 Long-Term Direction
+
+I am building toward software engineering roles where I can build backend systems, AI/ML platforms, distributed infrastructure, and cloud-native services.
